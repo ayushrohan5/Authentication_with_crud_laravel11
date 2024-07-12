@@ -7,6 +7,16 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Welcome to the Authentication with CRUD Operation project! This project demonstrates a Laravel application that includes user authentication and CRUD (Create, Read, Update, Delete) operations.
 
 
+## Table of Contents
+
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Endpoints](#endpoints)
+- [Contributing](#contributing)
+
+
 ## Features
 
 - User registration and login
