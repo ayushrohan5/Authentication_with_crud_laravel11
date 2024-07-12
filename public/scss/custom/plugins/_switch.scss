@@ -1,0 +1,44 @@
+.toggle.btn-outline-primary .toggle-handle {
+    border-color: var(--bs-primary);
+    background-color: var(--bs-primary);
+}
+
+.toggle.btn-outline-secondary .toggle-handle {
+    border-color: var(--bs-secondary);
+    background-color: var(--bs-secondary);
+}
+
+.toggle.btn-outline-danger .toggle-handle {
+    border-color: var(--bs-danger);
+    background-color: var(--bs-danger);
+}
+
+.toggle.btn-outline-warning .toggle-handle {
+    border-color: var(--bs-warning);
+    background-color: var(--bs-warning);
+}
+
+.toggle.btn-outline-success .toggle-handle {
+    border-color: var(--bs-success);
+    background-color: var(--bs-success);
+}
+
+.toggle.btn-outline-info .toggle-handle {
+    border-color: var(--bs-info);
+    background-color: var(--bs-info);
+}
+
+.toggle.btn-outline-dark .toggle-handle {
+    border-color: var(--bs-dark);
+    background-color: var(--bs-dark);
+}
+
+.toggle.btn-outline-light .toggle-handle {
+    border-color: var(--bs-light);
+    background-color: var(--bs-light);
+}
+
+.toggle[class*=btn-outline]:hover .toggle-handle {
+    background-color: var(--bs-light);
+    opacity: .5;
+}

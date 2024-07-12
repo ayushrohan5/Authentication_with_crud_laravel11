@@ -1,0 +1,13 @@
+//
+// Modal Page
+//
+
+.modal-colored-header {
+  .modal-title {
+    color: $white;
+  }
+  .btn-close {
+    filter: invert(1);
+  }
+}
+

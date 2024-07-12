@@ -1,0 +1,68 @@
+.fooicon {
+    font-family: FontAwesome !important;
+}
+
+.fooicon-loader:before {
+    /*Old Glyph - content: "\e030";*/
+    content: "\f01e" !important;
+}
+
+.fooicon-plus:before {
+    /*Old Glyph - content: "\2b";*/
+    content: "\f067" !important;
+}
+
+.fooicon-minus:before {
+    /*Old Glyph - content: "\2212";*/
+    content: "\f068" !important;
+}
+
+.fooicon-search:before {
+    /*Old Glyph - content: "\e003";*/
+    content: "\f002" !important;
+}
+
+.fooicon-remove:before {
+    /*Old Glyph - content: "\e014";*/
+    content: "\f00d" !important;
+}
+
+.fooicon-sort:before {
+    /*Old Glyph - content: "\e150";*/
+    content: "\f0dc" !important;
+}
+
+.fooicon-sort-asc:before {
+    /*Old Glyph - content: "\e155";*/
+    content: "\f0de" !important;
+}
+
+.fooicon-sort-desc:before {
+    /*Old Glyph - content: "\e156";*/
+    content: "\f0dd" !important;
+}
+
+.fooicon-pencil:before {
+    /*Old Glyph - content: "\270f";*/
+    content: "\f040" !important;
+}
+
+.fooicon-trash:before {
+    /*Old Glyph - content: "\e020";*/
+    content: "\f1f8" !important;
+}
+
+.fooicon-eye-close:before {
+    /*Old Glyph - content: "\e106";*/
+    content: "\f070" !important;
+}
+
+.fooicon-flash:before {
+    /*Old Glyph - content: "\e162";*/
+    content: "\f0e7" !important;
+}
+
+.fooicon-cog:before {
+    /*Old Glyph - content: "\e019";*/
+    content: "\f013" !important;
+}
